@@ -70,16 +70,16 @@
 (Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb. )
 
 		- Kök: 7 / sağında x > 7 / solunda x < 7
-		- 	
-					7
-				       / \
-				      5   8
-				     / \   \ 
-				    1	6   9
-				   / \
-				  0   3
-				     / \
-				    2   4
+		
+		- 	7
+		       / \
+		      5   8
+		     / \   \ 
+		    1	6   9
+		   / \
+		  0   3
+		     / \
+		    2   4
 		      
 ---
 
